@@ -1,1 +1,0 @@
-number that appears once is = 3
